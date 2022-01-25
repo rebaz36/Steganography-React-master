@@ -1,0 +1,31 @@
+
+.card{
+    margin: 1.5em 0;
+    -webkit-box-shadow: 6px 7px 11px 0 rgba(0,0,0,0.55);
+    -moz-box-shadow: 6px 7px 11px 0 rgba(0,0,0,0.55);
+    box-shadow: 6px 7px 11px 0 rgba(0,0,0,0.55);
+}
+.column{
+    padding: 1.5em;
+}
+.social-nav{
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    padding: 3em;
+}
+Button{
+    margin: 1em;
+    float: right
+}
+.binary{
+    margin: 1.5em;
+    width: 834px;
+    white-space: pre-line;
+    max-width:834px;
+}
+.badge{
+    white-space:normal;
+    max-width: 834px;
+    text-align:left;
+}
